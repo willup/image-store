@@ -2,5 +2,5 @@
   "name": "Example Token",
   "symbol": "EXMPL",
   "description": "Example token for Solana Foundation Bootcamp.",
-  "image": "https://github.com/willup/image-store/blob/main/example-lights.jpeg"
+  "image": "https://raw.githubusercontent.com/willup/image-store/main/example-lights.jpeg"
 }
